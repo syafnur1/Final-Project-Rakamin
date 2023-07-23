@@ -8,6 +8,12 @@ Menurut data dari statista.com, tingkat pengunduran diri karyawan organisasi pro
 
 ## STAGE 1 EDA, Insight dan Visualization
 
-### B) Data Preparation
+###B) Data Preparation
 
-### C) EDA
+###C) EDA
+
+####1) Descriptive Statistics
+####2) Univariate Analysis
+####3) Multivariate Analysis
+
+### Business Insight & Recommendation
